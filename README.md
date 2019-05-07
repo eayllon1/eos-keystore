@@ -4,10 +4,6 @@
 
 Generates public key, private key pairings for EOS. Uses React, React Native and Node.js Express.
 
-![web](webscreen.png)
-
-![mobile](mobilescreen.gif)
-
 ## 2 | Getting Started
 
 
