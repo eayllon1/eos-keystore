@@ -1,8 +1,9 @@
-# EOS Public Key Private Key Generator
+# EOS Payment App
 
 ## 1 | Description
 
-Generates public key, private key pairings for EOS. Uses React, React Native and Node.js Express.
+User interface that sends EOS payments.
+
 
 ## 2 | Getting Started
 
