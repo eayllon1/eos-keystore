@@ -17,7 +17,7 @@ twitter: https://twitter.com/relativeread
 User interface that sends EOS payments.
 
 
-## 1 | Getting Started
+## 1. Getting Started
 
 
 ### 1.1 Installation
